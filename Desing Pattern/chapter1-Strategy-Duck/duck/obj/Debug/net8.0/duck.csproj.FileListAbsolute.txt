@@ -1,0 +1,14 @@
+C:\Yufan\Books\Coding\Refactor\Desing Pattern\code\chapter1\duck\bin\Debug\net8.0\duck.exe
+C:\Yufan\Books\Coding\Refactor\Desing Pattern\code\chapter1\duck\bin\Debug\net8.0\duck.deps.json
+C:\Yufan\Books\Coding\Refactor\Desing Pattern\code\chapter1\duck\bin\Debug\net8.0\duck.runtimeconfig.json
+C:\Yufan\Books\Coding\Refactor\Desing Pattern\code\chapter1\duck\bin\Debug\net8.0\duck.dll
+C:\Yufan\Books\Coding\Refactor\Desing Pattern\code\chapter1\duck\bin\Debug\net8.0\duck.pdb
+C:\Yufan\Books\Coding\Refactor\Desing Pattern\code\chapter1\duck\obj\Debug\net8.0\duck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yufan\Books\Coding\Refactor\Desing Pattern\code\chapter1\duck\obj\Debug\net8.0\duck.AssemblyInfoInputs.cache
+C:\Yufan\Books\Coding\Refactor\Desing Pattern\code\chapter1\duck\obj\Debug\net8.0\duck.AssemblyInfo.cs
+C:\Yufan\Books\Coding\Refactor\Desing Pattern\code\chapter1\duck\obj\Debug\net8.0\duck.csproj.CoreCompileInputs.cache
+C:\Yufan\Books\Coding\Refactor\Desing Pattern\code\chapter1\duck\obj\Debug\net8.0\duck.dll
+C:\Yufan\Books\Coding\Refactor\Desing Pattern\code\chapter1\duck\obj\Debug\net8.0\refint\duck.dll
+C:\Yufan\Books\Coding\Refactor\Desing Pattern\code\chapter1\duck\obj\Debug\net8.0\duck.pdb
+C:\Yufan\Books\Coding\Refactor\Desing Pattern\code\chapter1\duck\obj\Debug\net8.0\duck.genruntimeconfig.cache
+C:\Yufan\Books\Coding\Refactor\Desing Pattern\code\chapter1\duck\obj\Debug\net8.0\ref\duck.dll

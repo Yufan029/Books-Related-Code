@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|c:\\yufan\\books\\coding\\dotnet\\aspnet\\pro-asp.net-core-7\\src\\partyinvites\\views\\home\\rsvpform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|solutionrelative:views\\home\\rsvpform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|c:\\yufan\\books\\coding\\dotnet\\aspnet\\pro-asp.net-core-7\\src\\partyinvites\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|solutionrelative:wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|c:\\yufan\\books\\coding\\dotnet\\aspnet\\pro-asp.net-core-7\\src\\partyinvites\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|c:\\yufan\\books\\coding\\dotnet\\aspnet\\pro-asp.net-core-7\\src\\partyinvites\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|c:\\yufan\\books\\coding\\dotnet\\aspnet\\pro-asp.net-core-7\\src\\partyinvites\\models\\guestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|solutionrelative:models\\guestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|c:\\yufan\\books\\coding\\dotnet\\aspnet\\pro-asp.net-core-7\\src\\partyinvites\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|solutionrelative:models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|c:\\yufan\\books\\coding\\dotnet\\aspnet\\pro-asp.net-core-7\\src\\partyinvites\\views\\home\\listresponses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|solutionrelative:views\\home\\listresponses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|c:\\yufan\\books\\coding\\dotnet\\aspnet\\pro-asp.net-core-7\\src\\partyinvites\\views\\home\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|solutionrelative:views\\home\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|c:\\yufan\\books\\coding\\dotnet\\aspnet\\pro-asp.net-core-7\\src\\partyinvites\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|c:\\yufan\\books\\coding\\dotnet\\aspnet\\pro-asp.net-core-7\\src\\partyinvites\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|c:\\yufan\\books\\coding\\dotnet\\aspnet\\pro-asp.net-core-7\\src\\partyinvites\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514CF786-D068-4A68-B05D-152EADA03151}|PartyInvites.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-19T03:49:25.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-19T03:48:33.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListResponses.cshtml",
+              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\Views\\Home\\ListResponses.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ListResponses.cshtml",
+              "ToolTip": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\Views\\Home\\ListResponses.cshtml",
+              "RelativeToolTip": "Views\\Home\\ListResponses.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T03:26:42.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Thanks.cshtml",
+              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\Views\\Home\\Thanks.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Thanks.cshtml",
+              "ToolTip": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\Views\\Home\\Thanks.cshtml",
+              "RelativeToolTip": "Views\\Home\\Thanks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T03:21:39.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository.cs",
+              "ToolTip": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\Models\\Repository.cs",
+              "RelativeToolTip": "Models\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T03:15:42.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RsvpForm.cshtml",
+              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\Views\\Home\\RsvpForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\RsvpForm.cshtml",
+              "ToolTip": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\Views\\Home\\RsvpForm.cshtml",
+              "RelativeToolTip": "Views\\Home\\RsvpForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T01:42:20.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GuestResponse.cs",
+              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\Models\\GuestResponse.cs",
+              "RelativeDocumentMoniker": "Models\\GuestResponse.cs",
+              "ToolTip": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\Models\\GuestResponse.cs",
+              "RelativeToolTip": "Models\\GuestResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:38:16.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T01:35:04.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T01:34:40.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA7wB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:34:25.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Yufan\\Books\\Coding\\DotNet\\AspNet\\pro-asp.net-core-7\\src\\PartyInvites\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:33:02.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
