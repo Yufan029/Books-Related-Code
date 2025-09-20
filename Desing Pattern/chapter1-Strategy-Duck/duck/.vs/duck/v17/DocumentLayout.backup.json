@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\books\\coding\\refactor\\desing pattern\\code\\chapter1\\duck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\books\\coding\\refactor\\desing pattern\\code\\chapter1\\duck\\ducks\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:ducks\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\books\\coding\\refactor\\desing pattern\\code\\chapter1\\duck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\books\\coding\\refactor\\desing pattern\\code\\chapter1\\duck\\flyactions\\flyrocketpowered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 28,
           "Children": [
             {
               "$type": "Bookmark",
@@ -186,13 +186,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T10:56:38.101Z",
               "EditorCaption": ""
@@ -264,13 +264,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Duck.cs",
               "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\Ducks\\Duck.cs",
               "RelativeDocumentMoniker": "Ducks\\Duck.cs",
-              "ToolTip": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\Ducks\\Duck.cs*",
-              "RelativeToolTip": "Ducks\\Duck.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAvAAAAAAAAAA==",
+              "ToolTip": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\Ducks\\Duck.cs",
+              "RelativeToolTip": "Ducks\\Duck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T10:57:09.607Z",
               "EditorCaption": ""

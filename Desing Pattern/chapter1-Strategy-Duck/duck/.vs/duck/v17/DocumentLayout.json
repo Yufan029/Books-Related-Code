@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\",
+  "WorkspaceRootPath": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\books\\coding\\refactor\\desing pattern\\code\\chapter1\\duck\\ducks\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:ducks\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\books\\coding\\refactor\\desing pattern\\code\\chapter1\\duck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\books\\coding\\refactor\\desing pattern\\code\\chapter1\\duck\\flyactions\\flyrocketpowered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:flyactions\\flyrocketpowered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\books\\coding\\refactor\\desing pattern\\code\\chapter1\\duck\\ducks\\modelduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:ducks\\modelduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\books\\coding\\refactor\\desing pattern\\code\\chapter1\\duck\\ducks\\mallardduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:ducks\\mallardduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\books\\coding\\refactor\\desing pattern\\code\\chapter1\\duck\\quackactions\\squeak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:quackactions\\squeak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\books\\coding\\refactor\\desing pattern\\code\\chapter1\\duck\\quackactions\\quackbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:quackactions\\quackbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\books\\coding\\refactor\\desing pattern\\code\\chapter1\\duck\\quackactions\\quack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:quackactions\\quack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\books\\coding\\refactor\\desing pattern\\code\\chapter1\\duck\\quackactions\\mutequack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\code\\books-related-code\\desing pattern\\chapter1-strategy-duck\\duck\\quackactions\\mutequack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:quackactions\\mutequack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\books\\coding\\refactor\\desing pattern\\code\\chapter1\\duck\\flyactions\\flywithwings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\code\\books-related-code\\desing pattern\\chapter1-strategy-duck\\duck\\quackactions\\quack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:quackactions\\quack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\code\\books-related-code\\desing pattern\\chapter1-strategy-duck\\duck\\quackactions\\squeak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:quackactions\\squeak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\code\\books-related-code\\desing pattern\\chapter1-strategy-duck\\duck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\code\\books-related-code\\desing pattern\\chapter1-strategy-duck\\duck\\ducks\\modelduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:ducks\\modelduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\code\\books-related-code\\desing pattern\\chapter1-strategy-duck\\duck\\ducks\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:ducks\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\code\\books-related-code\\desing pattern\\chapter1-strategy-duck\\duck\\flyactions\\flyrocketpowered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:flyactions\\flyrocketpowered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\code\\books-related-code\\desing pattern\\chapter1-strategy-duck\\duck\\ducks\\mallardduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:ducks\\mallardduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\code\\books-related-code\\desing pattern\\chapter1-strategy-duck\\duck\\quackactions\\quackbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:quackactions\\quackbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\code\\books-related-code\\desing pattern\\chapter1-strategy-duck\\duck\\flyactions\\flywithwings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:flyactions\\flywithwings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\books\\coding\\refactor\\desing pattern\\code\\chapter1\\duck\\flyactions\\flynoway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\code\\books-related-code\\desing pattern\\chapter1-strategy-duck\\duck\\flyactions\\flynoway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:flyactions\\flynoway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\books\\coding\\refactor\\desing pattern\\code\\chapter1\\duck\\flyactions\\flybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|c:\\yufan\\code\\books-related-code\\desing pattern\\chapter1-strategy-duck\\duck\\flyactions\\flybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{170F85A5-3168-4C79-8DB8-8EFC04D0C1CD}|duck.csproj|solutionrelative:flyactions\\flybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 28,
+          "SelectedChildIndex": 23,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,24 +134,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "FlyRocketPowered.cs",
-              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\FlyActions\\FlyRocketPowered.cs",
+              "DocumentMoniker": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\FlyActions\\FlyRocketPowered.cs",
               "RelativeDocumentMoniker": "FlyActions\\FlyRocketPowered.cs",
-              "ToolTip": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\FlyActions\\FlyRocketPowered.cs",
+              "ToolTip": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\FlyActions\\FlyRocketPowered.cs",
               "RelativeToolTip": "FlyActions\\FlyRocketPowered.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T11:21:08.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T11:21:08.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ModelDuck.cs",
-              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\Ducks\\ModelDuck.cs",
+              "DocumentMoniker": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\Ducks\\ModelDuck.cs",
               "RelativeDocumentMoniker": "Ducks\\ModelDuck.cs",
-              "ToolTip": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\Ducks\\ModelDuck.cs",
+              "ToolTip": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\Ducks\\ModelDuck.cs",
               "RelativeToolTip": "Ducks\\ModelDuck.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -160,24 +159,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MallardDuck.cs",
-              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\Ducks\\MallardDuck.cs",
+              "DocumentMoniker": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\Ducks\\MallardDuck.cs",
               "RelativeDocumentMoniker": "Ducks\\MallardDuck.cs",
-              "ToolTip": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\Ducks\\MallardDuck.cs",
+              "ToolTip": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\Ducks\\MallardDuck.cs",
               "RelativeToolTip": "Ducks\\MallardDuck.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T11:08:50.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T11:08:50.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Squeak.cs",
-              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\QuackActions\\Squeak.cs",
+              "DocumentMoniker": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\QuackActions\\Squeak.cs",
               "RelativeDocumentMoniker": "QuackActions\\Squeak.cs",
-              "ToolTip": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\QuackActions\\Squeak.cs",
+              "ToolTip": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\QuackActions\\Squeak.cs",
               "RelativeToolTip": "QuackActions\\Squeak.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -186,11 +184,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\Program.cs",
+              "DocumentMoniker": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\Program.cs",
+              "ToolTip": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,11 +197,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "MuteQuack.cs",
-              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\QuackActions\\MuteQuack.cs",
+              "DocumentMoniker": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\QuackActions\\MuteQuack.cs",
               "RelativeDocumentMoniker": "QuackActions\\MuteQuack.cs",
-              "ToolTip": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\QuackActions\\MuteQuack.cs",
+              "ToolTip": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\QuackActions\\MuteQuack.cs",
               "RelativeToolTip": "QuackActions\\MuteQuack.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -212,11 +210,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Quack.cs",
-              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\QuackActions\\Quack.cs",
+              "DocumentMoniker": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\QuackActions\\Quack.cs",
               "RelativeDocumentMoniker": "QuackActions\\Quack.cs",
-              "ToolTip": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\QuackActions\\Quack.cs",
+              "ToolTip": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\QuackActions\\Quack.cs",
               "RelativeToolTip": "QuackActions\\Quack.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -225,52 +223,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "QuackBehavior.cs",
-              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\QuackActions\\QuackBehavior.cs",
+              "DocumentMoniker": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\QuackActions\\QuackBehavior.cs",
               "RelativeDocumentMoniker": "QuackActions\\QuackBehavior.cs",
-              "ToolTip": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\QuackActions\\QuackBehavior.cs",
+              "ToolTip": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\QuackActions\\QuackBehavior.cs",
               "RelativeToolTip": "QuackActions\\QuackBehavior.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T11:05:13.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T11:05:13.752Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "FlyNoWay.cs",
-              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\FlyActions\\FlyNoWay.cs",
+              "DocumentMoniker": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\FlyActions\\FlyNoWay.cs",
               "RelativeDocumentMoniker": "FlyActions\\FlyNoWay.cs",
-              "ToolTip": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\FlyActions\\FlyNoWay.cs",
+              "ToolTip": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\FlyActions\\FlyNoWay.cs",
               "RelativeToolTip": "FlyActions\\FlyNoWay.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T11:00:43.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T11:00:43.641Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "FlyWithWings.cs",
-              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\FlyActions\\FlyWithWings.cs",
+              "DocumentMoniker": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\FlyActions\\FlyWithWings.cs",
               "RelativeDocumentMoniker": "FlyActions\\FlyWithWings.cs",
-              "ToolTip": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\FlyActions\\FlyWithWings.cs",
+              "ToolTip": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\FlyActions\\FlyWithWings.cs",
               "RelativeToolTip": "FlyActions\\FlyWithWings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T11:00:00.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T11:00:00.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Duck.cs",
-              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\Ducks\\Duck.cs",
+              "DocumentMoniker": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\Ducks\\Duck.cs",
               "RelativeDocumentMoniker": "Ducks\\Duck.cs",
-              "ToolTip": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\Ducks\\Duck.cs",
+              "ToolTip": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\Ducks\\Duck.cs",
               "RelativeToolTip": "Ducks\\Duck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T10:57:09.607Z",
               "EditorCaption": ""
@@ -279,14 +274,13 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "FlyBehavior.cs",
-              "DocumentMoniker": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\FlyActions\\FlyBehavior.cs",
+              "DocumentMoniker": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\FlyActions\\FlyBehavior.cs",
               "RelativeDocumentMoniker": "FlyActions\\FlyBehavior.cs",
-              "ToolTip": "C:\\Yufan\\Books\\Coding\\Refactor\\Desing Pattern\\code\\chapter1\\duck\\FlyActions\\FlyBehavior.cs",
+              "ToolTip": "C:\\Yufan\\Code\\Books-Related-Code\\Desing Pattern\\chapter1-Strategy-Duck\\duck\\FlyActions\\FlyBehavior.cs",
               "RelativeToolTip": "FlyActions\\FlyBehavior.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T10:59:00.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T10:59:00.778Z"
             }
           ]
         }
