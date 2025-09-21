@@ -2,7 +2,7 @@
 
 namespace Observer_WeatherStation.ObserverObjects
 {
-    public class StatisticsDisplay : Observer, DisplayElement
+    public class StatisticsDisplay : IObserver, DisplayElement
     {
         private float temperature;
         private float humidity;

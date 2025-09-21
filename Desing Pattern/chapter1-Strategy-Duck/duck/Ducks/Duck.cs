@@ -5,8 +5,8 @@ namespace duck.Ducks
 {
     public abstract class Duck
     {
-        public FlyBehavior flyBehavior;
-        public QuackBehavior quackBehavior;
+        public IFlyBehavior flyBehavior;
+        public IQuackBehavior quackBehavior;
 
         public Duck() { }
 
@@ -22,12 +22,12 @@ namespace duck.Ducks
             quackBehavior.quack();
         }
 
-        public void setFlyBehavior(FlyBehavior flyBehavior)
+        public void setFlyBehavior(IFlyBehavior flyBehavior)
         {
             this.flyBehavior = flyBehavior;
         }
 
-        public void setQuackBehavior(QuackBehavior quackBehavior)
+        public void setQuackBehavior(IQuackBehavior quackBehavior)
         {
             this.quackBehavior = quackBehavior;
         }

@@ -2,19 +2,19 @@
 
 namespace Observer_WeatherStation.SubjectObject
 {
-    public class WeatherData : Subject
+    public class WeatherData : ISubject
     {
-        private readonly List<Observer> observers = new List<Observer>();
+        private readonly List<IObserver> observers = new List<IObserver>();
         private float temperature;
         private float humidity;
         private float pressure;
 
-        public void RegisterObserver(Observer o)
+        public void RegisterObserver(IObserver o)
         {
             observers.Add(o);
         }
 
-        public void RemoveObserver(Observer o)
+        public void RemoveObserver(IObserver o)
         {
             observers.Remove(o);
         }

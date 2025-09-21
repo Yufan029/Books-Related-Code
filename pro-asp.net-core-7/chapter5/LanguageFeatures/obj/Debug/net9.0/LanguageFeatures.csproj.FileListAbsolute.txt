@@ -13,6 +13,8 @@ C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\ob
 C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.AssemblyInfo.cs
 C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.csproj.CoreCompileInputs.cache
 C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.MvcApplicationPartsAssemblyInfo.cache
+C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.RazorAssemblyInfo.cache
+C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.RazorAssemblyInfo.cs
 C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.sourcelink.json
 C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
@@ -22,11 +24,9 @@ C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\ob
 C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\staticwebassets.development.json
 C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.dll
 C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\refint\LanguageFeatures.dll
 C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.pdb
 C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.genruntimeconfig.cache
 C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\ref\LanguageFeatures.dll
-C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.RazorAssemblyInfo.cache
-C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.RazorAssemblyInfo.cs
-C:\Yufan\Code\Books-Related-Code\pro-asp.net-core-7\chapter5\LanguageFeatures\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

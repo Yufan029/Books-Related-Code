@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Yufan\\Code\\Books-Related-Code\\pro-asp.net-core-7\\chapter5\\LanguageFeatures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{140527DF-9077-4EE2-8D11-4E03028D23D7}|LanguageFeatures.csproj|c:\\yufan\\code\\books-related-code\\pro-asp.net-core-7\\chapter5\\languagefeatures\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{140527DF-9077-4EE2-8D11-4E03028D23D7}|LanguageFeatures.csproj|solutionrelative:models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{140527DF-9077-4EE2-8D11-4E03028D23D7}|LanguageFeatures.csproj|c:\\yufan\\code\\books-related-code\\pro-asp.net-core-7\\chapter5\\languagefeatures\\models\\myextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{140527DF-9077-4EE2-8D11-4E03028D23D7}|LanguageFeatures.csproj|solutionrelative:models\\myextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{140527DF-9077-4EE2-8D11-4E03028D23D7}|LanguageFeatures.csproj|c:\\yufan\\code\\books-related-code\\pro-asp.net-core-7\\chapter5\\languagefeatures\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{140527DF-9077-4EE2-8D11-4E03028D23D7}|LanguageFeatures.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{140527DF-9077-4EE2-8D11-4E03028D23D7}|LanguageFeatures.csproj|c:\\yufan\\code\\books-related-code\\pro-asp.net-core-7\\chapter5\\languagefeatures\\models\\myasyncmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140527DF-9077-4EE2-8D11-4E03028D23D7}|LanguageFeatures.csproj|solutionrelative:models\\myasyncmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{140527DF-9077-4EE2-8D11-4E03028D23D7}|LanguageFeatures.csproj|c:\\yufan\\code\\books-related-code\\pro-asp.net-core-7\\chapter5\\languagefeatures\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyAsyncMethods.cs",
+              "DocumentMoniker": "C:\\Yufan\\Code\\Books-Related-Code\\pro-asp.net-core-7\\chapter5\\LanguageFeatures\\Models\\MyAsyncMethods.cs",
+              "RelativeDocumentMoniker": "Models\\MyAsyncMethods.cs",
+              "ToolTip": "C:\\Yufan\\Code\\Books-Related-Code\\pro-asp.net-core-7\\chapter5\\LanguageFeatures\\Models\\MyAsyncMethods.cs",
+              "RelativeToolTip": "Models\\MyAsyncMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:13:54.536Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
@@ -103,53 +108,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MyExtensionMethods.cs",
-              "DocumentMoniker": "C:\\Yufan\\Code\\Books-Related-Code\\pro-asp.net-core-7\\chapter5\\LanguageFeatures\\Models\\MyExtensionMethods.cs",
-              "RelativeDocumentMoniker": "Models\\MyExtensionMethods.cs",
-              "ToolTip": "C:\\Yufan\\Code\\Books-Related-Code\\pro-asp.net-core-7\\chapter5\\LanguageFeatures\\Models\\MyExtensionMethods.cs",
-              "RelativeToolTip": "Models\\MyExtensionMethods.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T11:55:31.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "C:\\Yufan\\Code\\Books-Related-Code\\pro-asp.net-core-7\\chapter5\\LanguageFeatures\\Models\\ShoppingCart.cs",
-              "RelativeDocumentMoniker": "Models\\ShoppingCart.cs",
-              "ToolTip": "C:\\Yufan\\Code\\Books-Related-Code\\pro-asp.net-core-7\\chapter5\\LanguageFeatures\\Models\\ShoppingCart.cs",
-              "RelativeToolTip": "Models\\ShoppingCart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T11:53:26.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Yufan\\Code\\Books-Related-Code\\pro-asp.net-core-7\\chapter5\\LanguageFeatures\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Yufan\\Code\\Books-Related-Code\\pro-asp.net-core-7\\chapter5\\LanguageFeatures\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T11:03:11.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Yufan\\Code\\Books-Related-Code\\pro-asp.net-core-7\\chapter5\\LanguageFeatures\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Yufan\\Code\\Books-Related-Code\\pro-asp.net-core-7\\chapter5\\LanguageFeatures\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA0wBgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T11:03:08.923Z",
+              "WhenOpened": "2025-09-21T06:13:56.051Z",
               "EditorCaption": ""
             }
           ]

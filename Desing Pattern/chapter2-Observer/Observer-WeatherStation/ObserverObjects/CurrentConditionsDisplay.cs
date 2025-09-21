@@ -2,7 +2,7 @@
 
 namespace Observer_WeatherStation.ObserverObjects
 {
-    public class CurrentConditionsDisplay : Observer, DisplayElement
+    public class CurrentConditionsDisplay : IObserver, DisplayElement
     {
         private float temperature;
         private float pressure;

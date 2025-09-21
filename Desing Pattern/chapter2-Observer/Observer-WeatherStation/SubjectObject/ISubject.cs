@@ -2,10 +2,10 @@
 
 namespace Observer_WeatherStation.SubjectObject
 {
-    public interface Subject
+    public interface ISubject
     {
-        public void RegisterObserver(Observer o);
-        public void RemoveObserver(Observer o);
+        public void RegisterObserver(IObserver o);
+        public void RemoveObserver(IObserver o);
         public void NotifyObservers();
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace duck.FlyActions
 {
-    public class FlyNoWay : FlyBehavior
+    public class FlyNoWay : IFlyBehavior
     {
         public void fly()
         {
