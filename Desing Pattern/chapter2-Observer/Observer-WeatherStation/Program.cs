@@ -2,6 +2,8 @@
 using Observer_WeatherStation.SubjectObject;
 
 WeatherData weatherData = new WeatherData();
+
+// think of this RegisterObserver like addEventListner('click', () => {})
 //weatherData.RegisterObserver(new CurrentConditionsDisplay());
 //weatherData.RegisterObserver(new StatisticsDisplay());
 //weatherData.RegisterObserver(new ForecastDisplay());
