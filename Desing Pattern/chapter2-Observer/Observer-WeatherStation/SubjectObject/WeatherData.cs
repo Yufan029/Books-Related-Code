@@ -28,7 +28,7 @@ namespace Observer_WeatherStation.SubjectObject
         {
             foreach (var o in observers)
             {
-                o.Update(temperature, humidity, pressure);
+                o.Update();
             }
         }
 
@@ -39,6 +39,21 @@ namespace Observer_WeatherStation.SubjectObject
             this.pressure = pressure;
 
             MeasurementsChanged();
+        }
+
+        public float GetTemperature()
+        {
+            return this.temperature;
+        }
+
+        public float GetHumidity()
+        {
+            return this.humidity;
+        }
+
+        public float GetPressure()
+        {
+            return this.pressure;
         }
     }
 }

@@ -2,27 +2,29 @@
 
 namespace Observer_WeatherStation.ObserverObjects
 {
-    public class ForecastDisplay : IObserver, DisplayElement
+    public class ForecastDisplay : IObserver, IDisplayElement
     {
         private float temperature;
         private float humidity;
         private float pressure;
+        private WeatherData weatherData;
 
-        //public ForecastDisplay(WeatherData weatherData)
-        //{
-        //    weatherData.RegisterObserver(this);
-        //}
+        public ForecastDisplay(WeatherData weatherData)
+        {
+            this.weatherData = weatherData;
+            this.weatherData.RegisterObserver(this);
+        }
 
         public void Display()
         {
             Console.WriteLine("Forcast: Imporving weather on the way!");
         }
 
-        public void Update(float temp, float humidity, float pressure)
+        public void Update()
         {
-            temperature = temp;
-            this.humidity = humidity;
-            this.pressure = pressure;
+            this.temperature = this.weatherData.GetTemperature();
+            this.humidity = this.weatherData.GetHumidity();
+            this.pressure = this.weatherData.GetPressure();
 
             Display();
         }

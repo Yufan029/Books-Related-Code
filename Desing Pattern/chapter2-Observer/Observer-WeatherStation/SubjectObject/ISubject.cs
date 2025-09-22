@@ -7,5 +7,7 @@ namespace Observer_WeatherStation.SubjectObject
         public void RegisterObserver(IObserver o);
         public void RemoveObserver(IObserver o);
         public void NotifyObservers();
+        public float GetTemperature();
+        public float GetHumidity();
     }
 }
