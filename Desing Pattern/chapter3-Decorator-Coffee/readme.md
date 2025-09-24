@@ -21,5 +21,10 @@
 5. The Decorator Pattern
   - attaches additional responsibilites to an object dynamically.
   - Decorators provide a flexible alternative to subclassing for extending functionality.
+  - 通过继承来实现type matching, not extendiong functionality, decorator needs to has the same type as the object they decorated, VITAL!
 
-  ![alt text](image.png)
+The definition:
+![alt text](image.png)
+
+For the coffee shop:
+![alt text](image-1.png)

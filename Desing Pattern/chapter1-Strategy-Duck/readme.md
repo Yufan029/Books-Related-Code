@@ -29,3 +29,5 @@ Design pattern
 
 GOAL
   - How to create flexible designs that are maintainable and can cope with change.( thinking what might change in the future )
+
+![alt text](image.png)

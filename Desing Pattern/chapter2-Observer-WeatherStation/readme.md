@@ -22,3 +22,6 @@ chapter 2 Observer Pattern
     - this addEventListner add the will performed action into the observers' list
     - in the notify function of document, invoke the Observer's interface action(like actionPerformed) for each observer in list
     - when some event happen(e.g. load, invoke the notify -> listners got actionPerformed invoked respectively)
+
+
+![alt text](image.png)
