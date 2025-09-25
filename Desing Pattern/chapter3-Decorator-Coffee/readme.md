@@ -23,6 +23,20 @@
   - Decorators provide a flexible alternative to subclassing for extending functionality.
   - 通过继承来实现type matching, not extendiong functionality, decorator needs to has the same type as the object they decorated, VITAL!
 
+6. Two important things:
+  a. The abstract(or interface) decorator needs to inherit from the object it wants to decorate, because the decorator wants to become the component it wraps.（成为他）
+
+  b. The abstract(or interface) decorator needs to have a reference to the component it wraps, so the concrete docorator can have the component's functionalities, then add it's own decorator before or after (or even in place of) the component's functionalities, compose a more beautiful (after decorated) component.
+
+7. Real world example
+  - Java I/O libraries, - a set of wrappers around InputStream
+
+8. Decorator - subclassing for extending functionality
+
+
+keep your chin up and think positively!
+
+
 The definition:
 ![alt text](image.png)
 
