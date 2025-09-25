@@ -10,5 +10,9 @@
         // this may undermine the efficiency gains frm IQueryable.
         // So use ToList or ToArray to convert IQueryable<T> result into more predictable form.
         IQueryable<Product> Products { get; }
+
+        void SaveProduct(Product p);
+        void CreateProduct(Product p);
+        void DeleteProduct(Product p);
     }
 }
