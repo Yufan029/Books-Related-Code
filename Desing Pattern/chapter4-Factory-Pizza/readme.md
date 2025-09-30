@@ -7,9 +7,14 @@
   ![alt text](image.png)
   ![alt text](image-1.png)
 
-2. Factory Method Pattern
+2. Factory Method Pattern (Abstract factory in superclass, subclass to implement)
 
-- delegate the creation functionality to the subclass and having a abstract create method in superclass
+![alt text](image-2.png)
+
+- delegate the creation functionality to the subclass and having an abstract create method in superclass
+- superclass is the client and using the functionality from subclass to create the object
+
+![alt text](image-3.png)
 
 3. Offical definition
 
