@@ -3,6 +3,11 @@ using Platform;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// custom constrain, setup via option pattern
+builder.Services.Configure<RouteOptions>(opts => {
+    opts.ConstraintMap.Add("countryName", typeof(CountryRouteConstraint));
+});
+
 #region chapter 12
 //builder.Services.Configure<MessageOptions>(options =>
 //{
@@ -12,6 +17,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 var app = builder.Build();
 
+app.MapGet("capital/{country:countryName}", Capital.Endpoint);
 
 #region chapter 12
 //app.MapGet("/location", async (HttpContext context, IOptions<MessageOptions> msgOpts) =>
