@@ -1,6 +1,9 @@
 using CompanyEmployees.Extensions;
 using Contracts;
 using Microsoft.AspNetCore.HttpOverrides;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Formatters;
+using Microsoft.Extensions.Options;
 using NLog;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -16,8 +19,19 @@ builder.Services.ConfigureSqlContext(builder.Configuration);
 
 builder.Services.AddAutoMapper(typeof(Program));
 
-builder.Services.AddControllers()
-                .AddApplicationPart(typeof(CompanyEmployees.Presentation.AssemblyReference).Assembly);
+builder.Services.Configure<ApiBehaviorOptions>(options => 
+{ 
+    options.SuppressModelStateInvalidFilter = true;
+});
+
+builder.Services.AddControllers(config =>
+{
+    config.RespectBrowserAcceptHeader = true;
+    config.ReturnHttpNotAcceptable = true;        // will return 406(Not Accesptable) for header: (accept == text/css)
+    config.InputFormatters.Insert(0, GetJsonPatchInputFormatter());
+}).AddXmlDataContractSerializerFormatters()
+.AddCustomCSVFormatter()
+.AddApplicationPart(typeof(CompanyEmployees.Presentation.AssemblyReference).Assembly);
 
 var app = builder.Build();
 
@@ -46,3 +60,16 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+
+NewtonsoftJsonPatchInputFormatter GetJsonPatchInputFormatter() =>
+    new ServiceCollection()
+        .AddLogging()
+        .AddMvc()
+        .AddNewtonsoftJson()
+        .Services
+        .BuildServiceProvider()
+        .GetRequiredService<IOptions<MvcOptions>>()
+        .Value
+        .InputFormatters
+        .OfType<NewtonsoftJsonPatchInputFormatter>().First();
